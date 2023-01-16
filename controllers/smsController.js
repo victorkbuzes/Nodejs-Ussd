@@ -5,9 +5,9 @@
 const message = 'Hello Victor'
 // Your login credentials
 
-const shortCode = '32192'
+const shortCode = '2345'
 const username = 'sandbox'
-const apikey = '6522203eebbd9ff2782bd9f822074f3422eb9ba86f7d1dc60b86ea1a7f58e67f'
+const apikey = '4fc63b75c4d39db96e4895fa652a74a8399a1777339d1a777e4d236908d3b6b5'
 const options = {
 apiKey: apikey,
 username: username
