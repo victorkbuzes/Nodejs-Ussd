@@ -20,7 +20,7 @@ const sms = AfricasTalking.SMS
 
 module.exports.sms_send = async(req, res) => {
     var data = req.body;
-    if (data.to == '32192') {
+    if (data.to == '2345') {
         sendResponse(data.from, message)
         
     } else {
