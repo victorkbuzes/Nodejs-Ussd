@@ -39,13 +39,7 @@ const PORT =  process.env.PORT || 8080
 // ussd setup
 
 
-
-
-
-
     
-
-
 app.listen(PORT, () => {
    
     console.log(`running port ${PORT}`)
