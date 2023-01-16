@@ -12,7 +12,7 @@ router.get("/users/:number", getUserByID)
 
 //sms
 router.post('/message', sms_send)
-router.post('/delivery', sms_delivery)
+// router.post('/delivery', sms_delivery)
 router.get('/test', test);
 
 
